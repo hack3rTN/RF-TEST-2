@@ -9,8 +9,8 @@ adresse_client = "123 Rue des Exemples, Villeville"
 num_facture = "2022001"
 date_facture = "2022-01-31"
 articles = [
-    {"nom": "PURITE HOLDINGS", "quantite": 2, "prix_unitaire": 50.0},
-    {"nom": "Produit PURITE HOLDINGS B", "quantite": 1, "prix_unitaire": 30.0},
+    {"nom": "Martiniquaise des Eaux", "quantite": 2, "prix_unitaire": 50.0},
+    {"nom": "Produit Martiniquaise des Eaux B", "quantite": 1, "prix_unitaire": 30.0},
 ]
 total = sum(item["quantite"] * item["prix_unitaire"] for item in articles)
 
