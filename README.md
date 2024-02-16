@@ -3,7 +3,7 @@
 # Azure-APP
 Azure APP
 
-# Exemple de simulation de données pour une facture avec le mot-clé "PURITE HOLDINGS"
+# Exemple de simulation de données pour une facture avec le mot-clé "Martiniquaise des Eaux"
 nom_client = "Martiniquaise des Eaux"
 adresse_client = "123 Rue des Exemples, Villeville"
 num_facture = "2022001"
